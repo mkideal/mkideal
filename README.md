@@ -10,7 +10,8 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mkideal&show_icons=true&hide_border=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mkideal&layout=compact)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mkideal&show_icons=true&theme=light&line_height=27" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkideal&theme=light&hide_langs_below=1" alt="Most Used Languages" />
+</p>
 
