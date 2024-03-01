@@ -11,7 +11,7 @@
 ---
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mkideal&show_icons=true&theme=light&line_height=27" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkideal&theme=light&hide_langs_below=1" alt="Most Used Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mkideal&show_icons=true&theme=light&line_height=27" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkideal&theme=light&hide_langs_below=1" alt="Most Used Languages" />
 </p>
 
