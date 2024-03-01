@@ -10,13 +10,7 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mkideal&show_icons=true&hide_border=true" />
-</details>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mkideal&show_icons=true&hide_border=true)
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
-  <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkideal&layout=compact" />
-</details>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mkideal&layout=compact)
 
